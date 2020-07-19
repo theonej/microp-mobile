@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">microp</string>
+    <string name="title_activity_connect_to_device">Microp - Add Device</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="scan_instructions_text">Please scan the QR code on the back of your box</string>
+    <string name="logo_alt">MiCrop</string>
+    <string name="add_device_button_text">Add Device</string>
+    <string name="title_activity_connect_to_device_server">ConnectToDeviceServer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_new_device_text">Add New Device</string>
+    <string name="connecting_to_device_text">connecting to device...</string>
+</resources>
